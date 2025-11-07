@@ -181,3 +181,7 @@ button:hover {
     flex-direction: column;
     gap: 10px;
 }
+#logo_tech{
+    width: 150px;
+    height: 100px;
+}
